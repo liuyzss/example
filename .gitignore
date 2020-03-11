@@ -1,0 +1,38 @@
+### MAVEN
+target/
+pom.xml.tag
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+### OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+### idea
+/out/
+.idea
+*.iml
+*.iws
+tomcatlogdir_*
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+*.tmp
+rebel*.xml
+
+### eclipse
+.project
+.settings
+.classpath
+
+### log
+billing-server/logs/*
+*.log
+*.zip
+### liuyang test
+
+billing-server/src/main/java/qufenqi/pay/billing/server/controller/TestController.java
